@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '让我们烧烤！',
+  title: '让我们烧烤吧！',
   author: '0x5a57',
   email: 'badvibration46@gmail.com',
   link: 'https://blog.roastinthehell.com',
