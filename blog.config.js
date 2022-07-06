@@ -51,8 +51,8 @@ const BLOG = {
     },
     cusdisConfig: {
       appId: '1e920669-0e98-4cd1-bc3a-59c8352a034a', // data-app-id
-      host: 'https://cusdis-woad.vercel.app', // data-host, change this if you're using self-hosted version
-      scriptSrc: 'https://cusdis-woad.vercel.app/js/cusdis.es.js' // change this if you're using self-hosted version
+      host: 'https://cusdis.roastinthehell.com', // data-host, change this if you're using self-hosted version
+      scriptSrc: 'https://cusdis.roastinthehell.com/js/cusdis.es.js' // change this if you're using self-hosted version
     }
   },
   isProd: process.env.VERCEL_ENV === 'production' // distinguish between development and production environment (ref: https://vercel.com/docs/environment-variables#system-environment-variables)
