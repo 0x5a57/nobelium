@@ -3,7 +3,7 @@ const BLOG = {
   author: '0x5a57',
   email: 'badvibration46@gmail.com',
   link: 'https://blog.roastinthehell.com',
-  description: '请随便看看',
+  description: '',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -15,7 +15,7 @@ const BLOG = {
   sortByDate: true,
   showAbout: true,
   showArchive: true,
-  autoCollapsedNavBar: false, // The automatically collapsed navigation bar
+  autoCollapsedNavBar: true, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: '',
   seo: {
